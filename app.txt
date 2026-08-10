@@ -1,2 +1,3 @@
 Initialize application
 Improve application header styling
+Add footer section to application
