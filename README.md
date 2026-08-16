@@ -2,4 +2,4 @@
 
 - Git fundamentals
 - Branching
-- Pull RequestsZZ
+- Pull Requests
