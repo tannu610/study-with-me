@@ -1,4 +1,3 @@
-Readme · MD
 # Pull Request Workflow in Production: Git & GitHub Explained Simply
  
 If you are learning Git and GitHub, you have probably learned commands like:
